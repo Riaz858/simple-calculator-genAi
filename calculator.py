@@ -10,7 +10,7 @@ st.markdown("""
     }
     h1 {
         text-align: center;
-        color: #4CAF50;
+        color: B17457;
     }
     .button {
         background-color: #4CAF50;
@@ -33,7 +33,7 @@ st.markdown("""
     </style>
 """, unsafe_allow_html=True)
 
-st.title("Amazing Calculator with Streamlit")
+st.title("Simple Calculator with Streamlit")
 
 # Input fields
 num1 = st.number_input("Enter the first number", key='num1')
