@@ -4,16 +4,16 @@ import streamlit as st
 st.markdown("""
     <style>
     body {
-        background-color: #1a1a1a;
+        background-color: #697565;
         color: #f0f0f0;
         font-family: 'Arial', sans-serif;
     }
     h1 {
         text-align: center;
-        color: #B17457;
+        color: #3A1078;
     }
     .button {
-        background-color: #4CAF50;
+        background-color: #A28B55;
         border: none;
         color: white;
         padding: 15px 32px;
@@ -28,7 +28,7 @@ st.markdown("""
     .button:hover {
         background-color: white;
         color: black;
-        border: 2px solid #4CAF50;
+        border: 2px solid #FF8343;
     }
     </style>
 """, unsafe_allow_html=True)
