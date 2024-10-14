@@ -4,13 +4,13 @@ import streamlit as st
 st.markdown("""
     <style>
     body {
-        background-color: #697565;
-        color: #f0f0f0;
+        background-color: #A28B55;
+        color: #091057;
         font-family: 'Arial', sans-serif;
     }
     h1 {
         text-align: center;
-        color: #3A1078;
+        color: #FF8343;
     }
     .button {
         background-color: #A28B55;
