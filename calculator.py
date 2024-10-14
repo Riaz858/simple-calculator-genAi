@@ -10,7 +10,7 @@ st.markdown("""
     }
     h1 {
         text-align: center;
-        color: B17457;
+        color: #B17457;
     }
     .button {
         background-color: #4CAF50;
